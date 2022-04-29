@@ -1,0 +1,8 @@
+C:\Users\danwe\source\repos\POOU2D_Ejemplo1\bin\Debug\POOU2D_Ejemplo1.exe.config
+C:\Users\danwe\source\repos\POOU2D_Ejemplo1\bin\Debug\POOU2D_Ejemplo1.exe
+C:\Users\danwe\source\repos\POOU2D_Ejemplo1\bin\Debug\POOU2D_Ejemplo1.pdb
+C:\Users\danwe\source\repos\POOU2D_Ejemplo1\obj\Debug\POOU2D_Ejemplo1.csproj.AssemblyReference.cache
+C:\Users\danwe\source\repos\POOU2D_Ejemplo1\obj\Debug\POOU2D_Ejemplo1.csproj.SuggestedBindingRedirects.cache
+C:\Users\danwe\source\repos\POOU2D_Ejemplo1\obj\Debug\POOU2D_Ejemplo1.csproj.CoreCompileInputs.cache
+C:\Users\danwe\source\repos\POOU2D_Ejemplo1\obj\Debug\POOU2D_Ejemplo1.exe
+C:\Users\danwe\source\repos\POOU2D_Ejemplo1\obj\Debug\POOU2D_Ejemplo1.pdb
